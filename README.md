@@ -57,7 +57,7 @@ Utilities: numpy, pandas, joblib, matplotlib, seaborn
 
 Clone the repository:
 
-git clone https://github.com/your-username/fraud-forecast-ai.git
+git clone https://github.com/ParianMostafanezhad/Artificial-Intelligence-for-Fraud-Detection-and-Financial-Forecasting.git
 cd fraud-forecast-ai
 
 
